@@ -72,7 +72,7 @@ ZSH_THEME="oxide"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git aws cargo chucknorris docker git-extras golang history npm nvm rust rustup zsh-autosuggestions z)
+plugins=(git aws chucknorris docker git-extras golang history npm nvm rust zsh-autosuggestions z)
 
 source $ZSH/oh-my-zsh.sh
 
